@@ -3,15 +3,25 @@ A curated collection of Jupyter notebooks that explore foundational concepts in 
 Quantum Machine Learning (QML) blends the power of quantum computation with machine learning techniques, aiming to improve performance on complex tasks by exploiting quantum phenomena such as superposition and entanglement.
 
 quantum-machine-learning/
+
 ├── Bayesian_Inference.ipynb
+
 ├── No_Cloning_Theorem.ipynb
+
 ├── Probabilistic_Binary_Classifier.ipynb
+
 ├── Quantum_Classification.ipynb
+
 ├── Quantum_Naive_Bayes.ipynb
+
 ├── Qubit_and_Quantum_States.ipynb
+
 ├── Qunatum_Bayesian_Networks.ipynb
+
 ├── Working_with_Multiple_Qubits.ipynb
+
 ├── Working_with_Qubits.ipynb
+
 └── README.md
 
 | Notebook                                  | Description                                                                                |
